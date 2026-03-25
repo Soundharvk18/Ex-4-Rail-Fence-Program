@@ -169,7 +169,8 @@ return 0;
 
 ```
 # OUTPUT
-<img width="1378" height="757" alt="image" src="https://github.com/user-attachments/assets/c369af08-b0a9-4ab1-afb3-be4fc30392c3" />
+<img width="1572" height="800" alt="image" src="https://github.com/user-attachments/assets/86e61fc2-c347-4279-868a-2646101fe678" />
+
 
 # RESULT
 The program is executed successfully
